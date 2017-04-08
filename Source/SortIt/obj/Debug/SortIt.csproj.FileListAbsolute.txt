@@ -1,0 +1,2 @@
+c:\users\bastian\documents\visual studio 2013\Projects\SortIt\SortIt\bin\Debug\SortIt.exe.config
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\bin\Debug\SortIt.exe.config
