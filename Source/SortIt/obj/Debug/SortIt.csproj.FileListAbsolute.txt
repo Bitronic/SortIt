@@ -1,2 +1,15 @@
 c:\users\bastian\documents\visual studio 2013\Projects\SortIt\SortIt\bin\Debug\SortIt.exe.config
 C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\bin\Debug\SortIt.exe.config
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\bin\Debug\SortIt.exe
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\bin\Debug\SortIt.pdb
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\obj\Debug\SortIt.csprojResolveAssemblyReference.cache
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\obj\Debug\SortIt.SortIt.resources
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\obj\Debug\SortIt.Properties.Resources.resources
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\obj\Debug\SortIt.csproj.GenerateResource.Cache
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\obj\Debug\SortIt.exe
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\obj\Debug\SortIt.pdb
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Bastian\Documents\GitHub\SortIt\Source\SortIt\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
